@@ -101,8 +101,3 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/isurulkh/isurulkh/snake.svg" alt="Snake animation" />
-
-###
